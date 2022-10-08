@@ -1,2 +1,2 @@
 # spray
-Simply searching/processing texts
+Nimbly searching/processing texts
